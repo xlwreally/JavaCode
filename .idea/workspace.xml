@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92890e27-661b-4bb2-9254-7251af0ef99f" name="Default Changelist" comment="" />
+    <list default="true" id="92890e27-661b-4bb2-9254-7251af0ef99f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day1/ATM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day1/game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day1/monkey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day1/month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day1/multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day1/wage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day2/climb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day2/e.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day2/regist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day2/score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day2/yanghui.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/BookData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Cuboid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/pri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/xlw/ATM.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/xlw/game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/xlw/monkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/xlw/month.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/xlw/multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/xlw/wage.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,37 +49,194 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day1/xlw/game.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/climb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+            <state relative-caret-position="294">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/monkey.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/ATM.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/day1/xlw/ATM.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/game.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+            <state relative-caret-position="21">
+              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/multiplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Cuboid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <folding>
+                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#929#930#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Phone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              <folding>
+                <element signature="e#426#427#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#517#518#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/pri.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#177#178#0" expanded="true" />
+                <element signature="e#209#210#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/BookData.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="xlwreally" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="JavaCode" />
+  </component>
+  <component name="GroovyConsoleState">
+    <option name="list">
+      <list>
+        <Entry>
+          <option name="url" value="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy" />
+          <option name="moduleName" value="OneDrive" />
+          <option name="title" value="OneDrive (Bundled Groovy 2.4.15)" />
+        </Entry>
+      </list>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/day1/xlw/ATM.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/month.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/climb.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/regist.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day1/game.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/score.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/month.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/yanghui.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/e.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/student.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/Person.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/student.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/op/Operator.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Person.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Operator.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Phone.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/pri.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/book.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/BookData.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Homework.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/books.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/calculator.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/cuboid.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/cuboid.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Cuboid.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/book.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Book.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Addition.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
-    <option name="y" value="33" />
+    <option name="x" value="347" />
+    <option name="y" value="46" />
     <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="height" value="995" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -56,30 +247,45 @@
         <subPane>
           <expand>
             <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="xlw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="xlw" type="462c0819:PsiDirectoryNode" />
+              <item name="day1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Font" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -93,13 +299,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ATM">
-    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.xlw.ATM" />
+  <component name="RunManager" selected="Application.climb">
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day3.demo.Homework" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.xlw.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day3.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +313,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.xlw.game" />
+    <configuration name="book" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day3.demo.book" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.xlw.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="books" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day3.demo.books" />
+      <module name="OneDrive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.microsoft.xlw.day3.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="climb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day2.climb" />
+      <module name="OneDrive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.microsoft.xlw.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cuboid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day3.demo.cuboid" />
+      <module name="OneDrive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.microsoft.xlw.day3.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +367,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ATM" />
-        <item itemvalue="Application.game" />
+        <item itemvalue="Application.climb" />
+        <item itemvalue="Application.cuboid" />
+        <item itemvalue="Application.book" />
+        <item itemvalue="Application.books" />
+        <item itemvalue="Application.Homework" />
       </list>
     </recent_temporary>
   </component>
@@ -141,9 +389,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="33" width="1400" height="1000" extended-state="0" />
+    <frame x="347" y="46" width="1400" height="995" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26119402" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19291908" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -152,15 +400,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49855492" weight="0.36806342" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.3983051" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290993" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007225" side_tool="true" visible="true" weight="0.3295583" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49927744" visible="true" weight="0.3295583" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3272933" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -169,22 +417,330 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info active="true" anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.32942432" />
     </layout>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java$regist.ic" NAME="regist Coverage Results" MODIFIED="1557643308790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.microsoft.xlw.day2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/java$e.ic" NAME="e Coverage Results" MODIFIED="1557653428241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.microsoft.xlw.day2.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/day1/xlw/game.java">
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/game.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/ATM.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/wage.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/multiplication.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/monkey.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/month.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/wage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/month.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="241" column="20" lean-forward="true" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/score.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="36" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/e.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/op.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/op/Operator.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Operator.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/yanghui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/regist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Addition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Homework.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/books.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          <folding>
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/pri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#177#178#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/BookData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#929#930#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/day1/xlw/ATM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="24" column="40" lean-forward="true" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+        <state relative-caret-position="147">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/climb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/monkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/multiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/ATM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day1/game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>OneDrive</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

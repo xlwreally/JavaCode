@@ -6,7 +6,7 @@
  */
 
 
-package day1.xlw;
+package org.microsoft.xlw.day1;;
 
 import java.util.Scanner;
 

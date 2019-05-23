@@ -1,4 +1,4 @@
-package day1.xlw;
+package org.microsoft.xlw.day1;;
 import java.util.Scanner;
 public class game {
     public static void main(String[] args)
@@ -8,7 +8,7 @@ public class game {
         boolean flag=true,Comparison=false;
         int a=1,n=0;
         String guess,result="0";
-//        a=sc.nextInt();
+
 
         while (flag)
         {
