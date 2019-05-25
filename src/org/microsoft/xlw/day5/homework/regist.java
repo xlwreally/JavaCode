@@ -10,16 +10,24 @@ public class regist {
         System.out.println("******Regist******");
         System.out.println("Please enter you name");
         username=sc.nextLine();
+        username=username.replaceAll("china","*****");
+        username=username.replaceAll("中国","**");
+        System.out.println("You name is:"+username);
         while(passsword=="")
         {
             System.out.println("Please enter you password");
             t=sc.nextLine();
+            if(t.length()<8||t.length()>16)
+            {
+                System.out.println("The password must be 8-16 digits in length");
+                continue;
+            }
             System.out.println("Please retry you password");
 
             if(t.equals(sc.nextLine()))
                 passsword=t;
             else
-                System.out.println("Password didn't ,try again");
+                System.out.println("Password didn't match,try again");
         }
         System.out.println("******log in******");
         while (true)
@@ -37,7 +45,7 @@ public class regist {
             }
             System.out.println("Wrong user or password");
             n++;
-            if(n==4)
+            if(n==3)
             {
                 System.out.println("Too many repetitions,please try again tomorrow");
                 break;
