@@ -2,12 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="92890e27-661b-4bb2-9254-7251af0ef99f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Flip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Frequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/PrintAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/LoginMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/Id.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/IdCard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/bookmain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/homework6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/Arry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/ArrySort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Extend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/StudentLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/regist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/regist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OneDrive.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OneDrive.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/META-INF/java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,100 +50,157 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/IdCard.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+            <state relative-caret-position="126">
+              <caret line="6" column="121" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="121" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/StudentLeader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/vo/Demo1.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/Arry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="21" />
+            <state relative-caret-position="63">
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding>
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#215#216#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+                <element signature="e#572#573#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/vo/Id.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/ArrySort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+            <state relative-caret-position="693">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <element signature="e#101#102#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Name.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/PrintAll.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Flip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="525">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+              <folding>
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#376#377#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#444#445#0" expanded="true" />
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#634#635#0" expanded="true" />
+                <element signature="e#688#689#0" expanded="true" />
+                <element signature="e#734#735#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#291#292#0" expanded="true" />
+                <element signature="e#327#328#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Split.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="168">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/regist.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/code.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="315">
+              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+              <folding>
+                <element signature="e#197#198#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Frequency.java">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/Vehicle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+            <state relative-caret-position="63">
+              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#146#147#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+              <folding>
+                <element signature="e#158#159#0" expanded="true" />
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#385#386#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -151,34 +236,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/day1/xlw/ATM.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/month.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/climb.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/regist.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/score.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/month.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/yanghui.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day2/e.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/student.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/Person.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/student.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/op/Operator.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Person.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Operator.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Phone.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/pri.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/book.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/BookData.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Homework.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/books.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/calculator.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/cuboid.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/cuboid.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Cuboid.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/book.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Book.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Addition.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day1/wage.java" />
@@ -194,20 +251,50 @@
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/IdCard.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/vo/Id.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Name.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/regist.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Frequency.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/PrintAll.java" />
-        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Flip.java" />
         <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Split.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Flip.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo111.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo11.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo1.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Login.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/LoginMain.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Bank.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/book.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/bookmain.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework1.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework6.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/IdCard.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/IdCard.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/staff.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/main.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/father.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Extend.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/Arry.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/main.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/ArrySort.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/code.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/student.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/teacher.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/vehicle.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/student.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/StudentLeader.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/worker.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/person.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/test.java" />
+        <option value="$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="69" />
-    <option name="y" value="21" />
-    <option name="width" value="1374" />
-    <option name="height" value="994" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="55" />
+    <option name="y" value="67" />
+    <option name="width" value="1375" />
+    <option name="height" value="995" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -218,7 +305,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,14 +331,28 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/org/microsoft/xlw/day6" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xlw\OneDrive\JavaCode\src\org\microsoft\xlw\day6" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\xlw\OneDrive\JavaCode\src\org\microsoft\xlw\day6\bank" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -266,13 +366,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Split">
-    <configuration name="Flip" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day5.homework.Flip" />
+  <component name="RunManager" selected="Application.test (1)">
+    <configuration name="IdCard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day5.demo.IdCard" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.microsoft.xlw.day5.homework.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day5.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -280,12 +380,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day5.homework.Frequency" />
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day7.Arry.main" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.microsoft.xlw.day5.homework.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day7.Arry.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -293,12 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day5.homework.PrintAll" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day7.main" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.microsoft.xlw.day5.homework.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -306,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Split" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day5.homework.Split" />
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day7.person.test" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.microsoft.xlw.day5.homework.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day7.person.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +419,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="regist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day5.homework.regist" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day7.student.test" />
       <module name="OneDrive" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.microsoft.xlw.day5.homework.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.day7.student.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -334,11 +434,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Split" />
-        <item itemvalue="Application.Flip" />
-        <item itemvalue="Application.PrintAll" />
-        <item itemvalue="Application.Frequency" />
-        <item itemvalue="Application.regist" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.IdCard" />
       </list>
     </recent_temporary>
   </component>
@@ -371,9 +471,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="45" y="55" width="1100" height="796" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1203125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24033149" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -382,15 +482,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49166667" visible="true" weight="0.3040254" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4874816" weight="0.31632653" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49791667" weight="0.39724576" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290993" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5083333" side_tool="true" visible="true" weight="0.3040254" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5125184" side_tool="true" weight="0.29705215" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49927744" weight="0.3295583" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.496875" weight="0.32627118" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49166667" weight="0.32417583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -418,177 +518,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/game.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/ATM.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/wage.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/multiplication.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/monkey.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/month.java" />
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/io/FileInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="241" column="20" lean-forward="true" selection-start-line="241" selection-start-column="20" selection-end-line="241" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/op.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/op/Operator.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Operator.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/groovy/groovy_console.groovy">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/calculator.java" />
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Addition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/cuboid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Phone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-          <folding>
-            <element signature="e#426#427#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-            <element signature="e#517#518#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/pri.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#177#178#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/BookData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Cuboid.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#642#643#0" expanded="true" />
-            <element signature="e#855#856#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/day1/xlw/ATM.java" />
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/vo/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/Homework.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day3/demo/books.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/e.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/score.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day2/climb.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -652,30 +581,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/Stringdemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/IdCard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/vo/Demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -689,6 +594,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/Demo111.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/Stringdemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/vo/Id.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
@@ -696,31 +640,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Frequency.java">
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/demo/IdCard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="252">
+          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/PrintAll.java">
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java">
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/bookmain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/regist.java">
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/homework6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/IdCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/Id.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -731,17 +706,297 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/LoginMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/BackToText.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/homework/staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Flip.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="84">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/PrintAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Split.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="21">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/regist.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day5/homework/Frequency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day6/bank/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-67">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/Extend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/father.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="58" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#151#152#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#275#276#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/Vehicle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+          <folding>
+            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/StudentLeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="79" selection-start-line="5" selection-start-column="79" selection-end-line="5" selection-end-column="79" />
+          <folding>
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="72" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#634#635#0" expanded="true" />
+            <element signature="e#688#689#0" expanded="true" />
+            <element signature="e#734#735#0" expanded="true" />
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/code.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/ArrySort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#101#102#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/Arry/Arry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/student/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="121" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/org/microsoft/xlw/day7/person/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
