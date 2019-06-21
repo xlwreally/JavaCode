@@ -17,7 +17,12 @@ public class main {
                 sort.getArr()) {
             System.out.print(a+"\t");
         }
-
+        System.out.println("");
+        sort.reserve();
+        for (int a:
+                sort.getArr()) {
+            System.out.print(a+"\t");
+        }
 
     }
 }

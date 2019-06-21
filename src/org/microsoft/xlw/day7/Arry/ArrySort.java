@@ -23,18 +23,16 @@ public class ArrySort extends Arry{
     }
     public void reserve()
     {
-        for(int i=0;i<getArr().length;i++)
+        for(int i=0;i<getArr().length-1;i++)
         {
-            for(int j=0;j<getArr().length;j++)
-            {
-                int temp=0;
-                if(getArr()[i]<getArr()[j])
-                {
+
+                    int temp;
+
                     temp=getArr()[i];
-                    getArr()[i]=getArr()[j];
-                    getArr()[j]=temp;
-                }
-            }
+                    getArr()[i]=getArr()[i+1];
+                    getArr()[i+1]=temp;
+
+
         }
 
     }
