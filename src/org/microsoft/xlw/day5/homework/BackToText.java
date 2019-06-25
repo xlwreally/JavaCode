@@ -9,7 +9,7 @@ public class BackToText {
         for (int i=0;i<total.length()/2;i++)
         {
 
-            if(!total.substring(i,i+1).equals(total.substring(total.length()-i-1,total.length()-i)))
+            if(total.charAt(i)!=total.charAt(total.length()-i-1))
             {
                 System.out.println("不是回文");
                 System.exit(0);
