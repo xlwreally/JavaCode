@@ -1,7 +1,8 @@
-package org.microsoft.xlw.day1.dao.proxy;
+package org.microsoft.xlw.dao.proxy;
 
-import org.microsoft.xlw.day1.dao.PersonDao;
-import org.microsoft.xlw.day1.dao.impl.PersonImpl;
+
+import org.microsoft.xlw.dao.PersonDao;
+import org.microsoft.xlw.dao.impl.PersonImpl;
 
 public class PersonProxy implements PersonDao {
     private PersonImpl dao=new PersonImpl();

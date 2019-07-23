@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/JavaCode.iml" filepath="$PROJECT_DIR$/JavaCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/jrzy/jrzy.iml" filepath="$PROJECT_DIR$/jrzy/jrzy.iml" />
       <module fileurl="file://$PROJECT_DIR$/yjkj/yjkj.iml" filepath="$PROJECT_DIR$/yjkj/yjkj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/人口管理系统/人口管理系统.iml" filepath="$PROJECT_DIR$/人口管理系统/人口管理系统.iml" />
+      <module fileurl="file://$PROJECT_DIR$/用户管理系统/用户管理系统.iml" filepath="$PROJECT_DIR$/用户管理系统/用户管理系统.iml" />
     </modules>
   </component>
 </project>

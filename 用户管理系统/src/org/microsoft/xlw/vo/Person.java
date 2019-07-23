@@ -1,4 +1,4 @@
-package org.microsoft.xlw.day1.vo;
+package org.microsoft.xlw.vo;
 
 import java.io.Serializable;
 

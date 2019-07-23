@@ -1,4 +1,4 @@
-package org.microsoft.xlw.day1.dao;
+package org.microsoft.xlw.dao;
 
 public interface PersonDao {
     public Boolean add(Object a);

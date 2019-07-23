@@ -1,17 +1,15 @@
-package org.microsoft.xlw.day1.menu;
+package org.microsoft.xlw.menu;
 
-import org.microsoft.xlw.day1.data.DataBase;
-import org.microsoft.xlw.day1.factory.Factory;
-import org.microsoft.xlw.day1.vo.Person;
+import org.microsoft.xlw.data.DataBase;
+import org.microsoft.xlw.factory.Factory;
+import org.microsoft.xlw.vo.Person;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.Scanner;
 
-
-import static org.microsoft.xlw.day1.data.function.isInteger;
-import static org.microsoft.xlw.day1.data.function.sort;
-
+import static org.microsoft.xlw.data.function.isInteger;
+import static org.microsoft.xlw.data.function.sort;
 public class menu {
     public static void menu() throws Exception {
 

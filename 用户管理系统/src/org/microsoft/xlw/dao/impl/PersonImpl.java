@@ -1,8 +1,10 @@
-package org.microsoft.xlw.day1.dao.impl;
+package org.microsoft.xlw.dao.impl;
 
-import org.microsoft.xlw.day1.dao.PersonDao;
-import org.microsoft.xlw.day1.data.DataBase;
-import org.microsoft.xlw.day1.vo.Person;
+
+import org.microsoft.xlw.dao.PersonDao;
+import org.microsoft.xlw.data.DataBase;
+import org.microsoft.xlw.vo.Person;
+
 import java.util.ListIterator;
 
 public class PersonImpl  implements PersonDao {

@@ -22,7 +22,7 @@ public class AfterNoon {
 //        }
         System.out.println("今天的开奖号码是：");
         for (int i = 0; i <7 ; i++) {
-            s[i]=rd.nextInt(36);//产生彩票随机数
+            s[i]=rd.nextInt(35);//产生彩票随机数
             for (int j=0;j<i;j++) {
                 if(s[j]==s[i])//如果出现重复的彩票代码则再次执行
                     i--;
@@ -32,7 +32,7 @@ public class AfterNoon {
         }
         for (int j:s
              ) {
-            System.out.print(j+"\t");
+            System.out.print(j+1+"\t");
         }
         System.out.println();
         NumberFormat nf=NumberFormat.getCurrencyInstance(Locale.TRADITIONAL_CHINESE);//按照台湾省的要求格式化
