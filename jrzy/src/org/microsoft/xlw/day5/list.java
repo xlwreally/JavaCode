@@ -17,7 +17,8 @@ public class list {
         System.out.println(li);
         System.out.println(li.remove(0));
         System.out.println(li);
-
+        System.out.println(li.size());
+        System.out.println(li.get(0));
 
     }
 }

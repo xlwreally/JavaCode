@@ -48,5 +48,6 @@ public class main {
         System.out.println(cld.get(Calendar.DATE));
         DateFormat df1=DateFormat.getDateTimeInstance();
         System.out.println(df1.format(new Date()));
+        s.delete(0,0);
     }
 }

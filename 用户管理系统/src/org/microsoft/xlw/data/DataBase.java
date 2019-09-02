@@ -9,6 +9,7 @@ import java.io.*;
 import java.util.LinkedList;
 
 public class DataBase {
+
     public static LinkedList<Person> data=new LinkedList<>();
     public static void save()throws Exception{
         File f=new File("/Users/xlwreally/Desktop/TEMP/用户管理系统.data");
