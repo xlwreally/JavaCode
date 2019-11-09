@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7292f92d-57ca-40ce-98fa-877edcabcc5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/fun/time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/Kid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/microsoft/xlw/boring/calculator/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/microsoft/xlw/boring/calculator/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,9 +73,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/day5/list.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/day1/data/DataBase.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/day3/AfterNoon.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/day5/list.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -125,9 +125,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test (1)">
-    <configuration name="Sub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day6.Sub" />
+  <component name="RunManager" selected="Application.main (1)">
+    <configuration name="fon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day6.fon" />
       <module name="jrzy" />
       <extension name="coverage">
         <pattern>
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.day6.fon" />
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.microsoft.xlw.test.main" />
       <module name="jrzy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.microsoft.xlw.day6.*" />
+          <option name="PATTERN" value="org.microsoft.xlw.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main (1)" />
         <item itemvalue="Application.test (1)" />
         <item itemvalue="Application.time" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.fon" />
-        <item itemvalue="Application.Sub" />
       </list>
     </recent_temporary>
   </component>
@@ -275,6 +275,7 @@
       <workItem from="1570527939632" duration="3000" />
       <workItem from="1571917991321" duration="2283000" />
       <workItem from="1572185147854" duration="6000" />
+      <workItem from="1573301999509" duration="245000" />
     </task>
     <task id="LOCAL-00001" summary="改为巨人">
       <created>1563452574164</created>
@@ -297,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567402115438</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="改为巨人">
+      <created>1573302093977</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573302093977</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
