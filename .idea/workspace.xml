@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7292f92d-57ca-40ce-98fa-877edcabcc5d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/cycle7/ByLinklist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/Cycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/cycle7/Cycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/Kid.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/cycle7/Kid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/test/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/jrzy/src/org/microsoft/xlw/cycle7/main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -275,6 +271,10 @@
       <workItem from="1571917991321" duration="2283000" />
       <workItem from="1572185147854" duration="6000" />
       <workItem from="1573301999509" duration="2560000" />
+      <workItem from="1573313138244" duration="673000" />
+      <workItem from="1573354600880" duration="7000" />
+      <workItem from="1573375294625" duration="105000" />
+      <workItem from="1573446738315" duration="327000" />
     </task>
     <task id="LOCAL-00001" summary="改为巨人">
       <created>1563452574164</created>
@@ -311,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573302273301</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Cycle">
+      <created>1573313151328</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573313151328</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Cycle">
+      <created>1573313269218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1573313269218</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
